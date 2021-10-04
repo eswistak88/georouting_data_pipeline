@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Thu Oct 31 14:44:06 2019 by Eclipse SUMO polyconvert Version 1.0.1
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="BursaScenario.net.xml"/>
+        <osm-files value="BursaScenario.osm.xml"/>
+        <osm.keep-full-type value="false"/>
+        <type-file value="/home/veins/src/sumo/data/typemap/osmPolyconvert.typ.xml"/>
+    </input>
+
+    <output>
+        <output-file value="BursaScenario.poly.xml"/>
+    </output>
+
+</configuration>
