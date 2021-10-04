@@ -30,3 +30,7 @@ $make code_snippets
 #for github users
 
 -I had to remove the client files so that I am not sharing any proprietary information so this is just to showcase some of my work and not meant to actually be run
+
+-The .net file is compressed to save on storage space, you'll need to uncompress it to use it in the program
+
+-This program makes extensive use of a makefile to document and excecute the steps in the data pipeline process, normally make isn't used for interpretted languages like Python but I find it very useful for this purpose.
